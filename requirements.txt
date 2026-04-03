@@ -1,0 +1,6 @@
+tensorflow==2.21.0
+opencv-python==4.13.0.33
+numpy
+matplotlib
+scikit-learn
+imutils
