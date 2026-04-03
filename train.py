@@ -11,6 +11,7 @@ from tensorflow.keras.utils import to_categorical
 from sklearn.preprocessing import LabelBinarizer
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import classification_report
+# Updated by Riya Garg
 
 print("[INFO] Loading images...")
 
