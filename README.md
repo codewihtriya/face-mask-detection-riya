@@ -1,4 +1,5 @@
-# Face Mask Detection
+# Face Mask Detection - Riya Garg
+Developed by Riya Garg
 
 A real-time face mask detection system using MobileNetV2 and OpenCV that detects whether a person is wearing a face mask or not through a webcam feed.
 
